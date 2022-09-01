@@ -5,7 +5,7 @@ Date: Aug-31-2022
 output: GitHug
 ---
 ##R
-
+**Group Names: Liam O'Neill; Valery Delgado; Holli Tai
 ##Small Stuff
 ```{r}
 x <- 1:50
